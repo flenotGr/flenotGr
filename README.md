@@ -1,28 +1,27 @@
-<h1 align="center">Hello. My name is Bogdan</h1>
+<h1 align="center">Hi there! I'm Bogdan 👋</h1>
 
-<h3 align="center">Beginning DS Developer | Applied Mathematics Student</h3>
+<h3 align="center">Aspiring Data Scientist | Applied Mathematics Student</h3>
 
 <div align="center">
-  <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/5c713fb7-2d39-4cd2-bb3b-27f98a7d8124" />
+  <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/ebdcecb9-ed05-494e-8fc6-b76af0d0c26c" />
 </div>
 
 ---
 
-<h3 align="left">👨‍💻 About me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I am an aspiring Data Science developer and a second-year student majoring in Applied Mathematics at MIET.
+I'm a second-year Applied Mathematics student at MIET with a strong passion for Data Science and Machine Learning.
 <br><br>
-I am currently studying Python, mathematics, machine learning, and data handling.
-I love mathematics and solving non-standard problems.
+Currently, I'm diving deep into Python, mathematical modeling, and machine learning algorithms. I truly enjoy mathematics and tackling unconventional problems that require creative thinking.
 <br><br>
-- 🔭 I am currently developing my skills in Data Science and Machine Learning.<br>
-- 📍 Moscow, Russia
+- 🔭 I'm currently focused on improving my skills in Data Science and Machine Learning.<br>
+- 📍 Based in Moscow, Russia
 </p>
 
 ---
 
-<h3 align="left">🛠 Технологии и инструменты</h3>
+<h3 align="left">🛠 Tech Stack & Tools</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
@@ -37,7 +36,7 @@ I love mathematics and solving non-standard problems.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
 </div>
 
 <br>
@@ -52,7 +51,7 @@ I love mathematics and solving non-standard problems.
 
 ---
 
-<h3 align="left">🌐 Социальные сети</h3>
+<h3 align="left">🌐 Connect with Me</h3>
 
 <div align="left">
   <a href="https://t.me/fluffyenot" target="_blank">
@@ -62,14 +61,6 @@ I love mathematics and solving non-standard problems.
 
 ---
 
-<br>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Toleranzy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Toleranzy.Toleranzy" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=flenotGr.visitor-badge&left_text=visitors" alt="visitor badge"/>
 </div>
